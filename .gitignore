@@ -7,3 +7,5 @@ throughput-tune-rust-refactor-plan.md
 
 # RunPod e2e creds (never commit)
 .runpod-e2e.env
+config.bat
+node_modules
